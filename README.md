@@ -7,7 +7,7 @@
 - 📧 Mail me: rakibhasanahawon@gmail.com, shawonforazi1234@outlook.com
 - 📞 Directly Contact Number : +88 01819-576939
 - 🔎 Skype ID : Shawon Forazi
-- 🏠 Address: Dhaka, Bangladesh🇧🇩
+- 🏠 Address: Dhaka, Bangladesh
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My special abality is Graphic Designing works complete by smartphone & crate numerous jpg/png files by Graphic Design in short time 
 - 🌟 Always support me & please my profile 
