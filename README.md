@@ -3,7 +3,7 @@
 - 👀 I’m interested in Graphic Designing & PowerPoint Presentations
 - 🌱 I’m currently learning Github profile making 
 - 💞️ I’m looking to make a virtual connection of Graphic Design
-- 📫 How to reach me : Visit My Profile & Click on the another linked Profile
+- 📫 How to reach me : Visit My Github Profile & Click on the another linked Profile
 - 📧 Mail me: rakibhasanahawon@gmail.com, shawonforazi1234@outlook.com
 - 📞 Directly Contact Number : +88 01819-576939
 - 🔎 Skype ID : Shawon Forazi
