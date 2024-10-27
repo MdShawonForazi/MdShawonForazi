@@ -5,9 +5,9 @@
 - 💞️ I’m looking to make a virtual connection of Graphic Design
 - 📫 How to reach me : Visit My Github Profile & Check out my Facebook ID, X ID and Quora ID those are linked on Github Profile
 - 📧 Mail me: rakibhasanshawon@gmail.com, shawonforazi1234@outlook.com
-- 📞 Directly Contact Number : +88 01819-576939
+- 📞 My Contact Number : +88 01819-576939
 - 🔎 Skype ID : Shawon Forazi
-- 🏠 Address: Dhaka, Bangladesh
+- 🏠 My Address: Dhaka, Bangladesh
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My special abality is Graphic Designing works complete by smartphone & crate numerous jpg/png files by Graphic Design in short time 
 - 🌟 Always support me & please my profile 
