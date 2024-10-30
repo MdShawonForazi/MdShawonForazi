@@ -8,7 +8,7 @@
 - 📞 My Contact Number : +88 01819-576939
 - 🔎 Skype ID : Shawon Forazi
 - 🏠 My Address: Dhaka, Bangladesh
-- 😄 Pronouns: He/Him
+- 🗣️ Pronouns: He/Him
 - ⚡ Fun fact: My special abality is Graphic Designing works complete by smartphone & crate numerous jpg/png files by Graphic Design in short time 
 - 🌟 Kindly support my profile by following so that stay connect with me
 <!--- 
