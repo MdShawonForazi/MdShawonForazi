@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MdShawonForazi
-- 🙋‍♂️ I'm a student of Honours
+- 🙋‍♂️ I'm a Graphic Designer
 - 👀 I’m interested in Graphic Designing & PowerPoint Presentations
 - 🌱 I’m currently learning Github profile making 
 - 💞️ I’m looking to make a virtual connection of Graphic Design
