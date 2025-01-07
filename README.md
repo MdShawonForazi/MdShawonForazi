@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MdShawonForazi
 - 🙋‍♂️ I'm a Graphic Designer
-- 👀 I’m interested in Graphic Designing,PowerPoint Presentations,Social Communication,3D Animation,Freelancing etc.
+- 👀 I’m interested in Graphic Designing, PowerPoint Presentations, Social Communication, 3D Animation, Freelancing etc.
 - 🌱 I’m currently learning Github profile making, Self-Development
 - 💞️ I’m looking for make a virtual connectivity about Graphic Design
 - 📫 How to reach me : rakibhasanshawon2002@gmail.com
