@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Graphic Design Sector<br>🌱 I’m currently learning Basic Computer Programme<br>👯 I’m looking to collaborate on Trustable Institute or Firm or Experienced Team<br>🤔 I’m looking for help with Advance Programming with collaboration<br>💬 Ask me about Graphic Design & Computer Networking<br>📫 How to reach me: shawonforazi2002@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I can make various types of creations of Graphic Design by smartphone
+🔭 I’m currently working on Graphic Design's Sector<br>🌱 I’m currently learning Basic Computer Programme<br>👯 I’m looking to collaborate on Trustable Institute or Firm or Experienced Team<br>🤔 I’m looking for help with Advance Programming with collaboration<br>💬 Ask me about Graphic Design & Computer Networking<br>📫 How to reach me: shawonforazi2002@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I can make various types of creations of Graphic Design by smartphone
 
 
 ## 🌐 Socials:
