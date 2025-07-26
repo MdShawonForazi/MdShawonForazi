@@ -1,5 +1,5 @@
 # 💫 About Me:
- ## Hi there 👋, My name is Md. Shawon Forazi
+ ## 👋Hi there, My name is Md. Shawon Forazi
 ## Graphic Designer | Tech Enthusiast | Developer in Progress
 🎨 Passionate about blending design & code to create visually stunning and functional solutions.
 📚 Always learning, building, and sharing my journey in software development & creative design.
