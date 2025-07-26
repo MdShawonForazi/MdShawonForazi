@@ -1,6 +1,6 @@
 # 💫 About Me:
- ### Hi there 👋, my name is Md. Shawon Forazi
-#### Graphic Designer
+ ## Hi there 👋, my name is Md. Shawon Forazi
+### Graphic Designer
 I am a professional graphic designer and computer programmer. At present, I'm learning Ai Video editing & Software management. 
 
 Skills: VUE JS / REACT / JS / HTML / CSS / Adobe Illustrator 
