@@ -23,9 +23,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS / Adobe Illustrator
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/MdShawonForazi)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/MdShawonForazi&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/MdShawonForazi/contributions?format=svg&private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/MdShawonForazi&show_icons=true&count_private=true)   
 
 
 
@@ -48,4 +46,3 @@ Skills: VUE JS / REACT / JS / HTML / CSS / Adobe Illustrator
 ---
 [![](https://visitcount.itsvg.in/api?id=MdShawonForazi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MdShawonForazi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-shawon-forazi-3657b9182/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://facebook.com/IamShawonForazi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/md_shawonforazi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](shawonforazi2002@gmail.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='icloud' height='40'>](shawonforazi9009@icloud.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/microsoftoutlook.svg' alt='microsoftoutlook' height='40'>](shawonforazi1234@outlook.com)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/quora.svg' alt='quora' height='40'>](https://www.quora.com/profile/Md-Rakib-Hasan-Shawon-2)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pinterest.svg' alt='pinterest' height='40'>](https://pin.it/6lttJNOzh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/snapchat.svg' alt='snapchat' height='40'>](md_shawonforazi)  
