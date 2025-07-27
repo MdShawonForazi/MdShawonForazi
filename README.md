@@ -1,5 +1,4 @@
-# 💫 About Me:
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there! I'm ⤵️
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there! I'm ⤵️
  <!-- 🌈 Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,100:ee0979&height=220&section=header&text=Md.%20Shawon%20Forazi&fontSize=65&fontAlignY=38&animation=twinkling&fontColor=ffffff" alt="header"/>
@@ -10,7 +9,7 @@
 
 
 
-## 🎨 About Me
+## 💫 About Me
 
 - 🖌 Passionate **Graphic Designer**
 - 🚀 Expert in **Branding, Social Media Design**
@@ -74,7 +73,7 @@
 
 
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 <p align="center">
   <a href="https://facebook.com/IamShawonForazi" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
@@ -110,6 +109,7 @@
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/skype.svg" alt="Skype" width="40" height="40"/>
   </a>
 </p>
+
 
 ![copyImage](https://github.com/user-attachments/assets/72d41e69-5681-4853-811f-3e6e84d94b72)
 
