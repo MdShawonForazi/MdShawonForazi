@@ -43,6 +43,39 @@ Skills: Data Entry / Canva Graphic Design  / Basic Programing / Adobe Photoshop 
 
 
 ## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/shawonforazi.bsky.social) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/IamShawonForazi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/md-shawon-forazi-3657b9182) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/IamMd_Shawon) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Md-Rakib-Hasan-Shawon-2) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/md_shawonforazi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shawonforazi2002@gmail.com) 
+<p align="center">
+  <a href="https://facebook.com/IamShawonForazi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+  </a>
+  <a href="https://x.com/md_shawonforazi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" alt="X" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/md-shawon-forazi-3657b9182" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://bsky.app/profile/shawonforazi.bsky.social" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bluesky.svg" alt="Bluesky" width="40" height="40"/>
+  </a>
+  <a href="mailto:shawonforazi2002@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="mailto:shawonforazi1234@outlook.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" alt="Outlook" width="40" height="40"/>
+  </a>
+  <a href="mailto:shawonforazi9009@icloud.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/icloud.svg" alt="iCloud" width="40" height="40"/>
+  </a>
+  <a href="https://www.quora.com/profile/Md-Rakib-Hasan-Shawon-2" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/quora.svg" alt="Quora" width="40" height="40"/>
+  </a>
+  <a href="https://pin.it/2kO4pl3Q4" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pinterest.svg" alt="Pinterest" width="40" height="40"/>
+  </a>
+  <a href="https://www.snapchat.com/md_shawonforazi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/snapchat.svg" alt="Snapchat" width="40" height="40"/>
+  </a>
+  <a href="https://www.skype.com/ShawonForazi" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/skype.svg" alt="Skype" width="40" height="40"/>
+  </a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
