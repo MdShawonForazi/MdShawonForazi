@@ -33,14 +33,23 @@
 
  ## ☢️ My Github Activities
 
- <!-- Center Align Section -->
-<div align="center">
+ <p align="center">
+  <!-- Followers -->
+  <img src="https://img.shields.io/badge/Followers-5.5K-blue?style=for-the-badge&logo=github" alt="Followers"/>
 
-<!-- GitHub Badges -->
-![Followers](https://img.shields.io/badge/Followers-5.5K-blue?style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/badge/Stars-8K-yellow?style=for-the-badge&logo=github)
-![Commits](https://img.shields.io/badge/Commits-4.5K-green?style=for-the-badge&logo=github)
-![Projects](https://img.shields.io/badge/Projects-3K-orange?style=for-the-badge&logo=github)
+  <!-- Stars -->
+  <img src="https://img.shields.io/badge/Stars-2.8K-yellow?style=for-the-badge&logo=github" alt="Stars"/>
+
+  <!-- Commits -->
+  <img src="https://img.shields.io/badge/Commits-25K-green?style=for-the-badge&logo=git" alt="Commits"/>
+
+  <!-- Projects -->
+  <img src="https://img.shields.io/badge/Projects-120+-purple?style=for-the-badge&logo=github" alt="Projects"/>
+
+  <!-- Repos -->
+  <img src="https://img.shields.io/badge/Public%20Repos-85-orange?style=for-the-badge&logo=github" alt="Repos"/>
+</p>
+
   
 
 ## 📊 GitHub Stats:
@@ -114,3 +123,59 @@
 ![copyImage](https://github.com/user-attachments/assets/72d41e69-5681-4853-811f-3e6e84d94b72)
 
 
+<p align="center">
+  <!-- Facebook -->
+  <a href="https://facebook.com/IamShawonForazi" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" height="40" width="40"/>
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/md-shawon-forazi-3657b9182" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="40" width="40"/>
+  </a>
+
+  <!-- Bluesky -->
+  <a href="https://bsky.app/profile/shawonforazi.bsky.social" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Bluesky_Logo.png" alt="Bluesky" height="40" width="40"/>
+  </a>
+
+  <!-- X (Twitter) -->
+  <a href="https://x.com/md_shawonforazi" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg" alt="X" height="40" width="40"/>
+  </a>
+
+  <!-- Quora -->
+  <a href="https://www.quora.com/profile/Md-Rakib-Hasan-Shawon-2" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111628.png" alt="Quora" height="40" width="40"/>
+  </a>
+
+  <!-- Pinterest -->
+  <a href="https://pin.it/28mcltgvQ" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/145/145808.png" alt="Pinterest" height="40" width="40"/>
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:rakibhasanshawon2002@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" width="40"/>
+  </a>
+
+  <!-- Outlook -->
+  <a href="mailto:shawonforazi1234@outlook.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" alt="Outlook" height="40" width="40"/>
+  </a>
+
+  <!-- iCloud -->
+  <a href="mailto:shawonforazi9009@icloud.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732076.png" alt="iCloud" height="40" width="40"/>
+  </a>
+
+  <!-- Snapchat -->
+  <a href="https://www.snapchat.com/md_shawonforazi" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670235.png" alt="Snapchat" height="40" width="40"/>
+  </a>
+
+  <!-- Skype -->
+  <a href="https://www.skype.com/shawonforazi" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111615.png" alt="Skype" height="40" width="40"/>
+  </a>
+</p>
