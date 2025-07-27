@@ -37,7 +37,7 @@
 <div align="center">
 
 <!-- GitHub Badges -->
-![Followers](https://img.shields.io/badge/Followers-5.5K-blue?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-5.5K+-blue?style=for-the-badge&logo=github)
 ![Stars](https://img.shields.io/badge/Stars-8K-yellow?style=for-the-badge&logo=github)
 ![Commits](https://img.shields.io/badge/Commits-4.5K-green?style=for-the-badge&logo=github)
 ![Projects](https://img.shields.io/badge/Projects-3K-orange?style=for-the-badge&logo=github)
