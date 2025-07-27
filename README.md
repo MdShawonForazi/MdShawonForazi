@@ -1,28 +1,55 @@
 # 💫 About Me:
- ## 👋Hi there, My name is Md. Shawon Forazi
-## Graphic Designer | Tech Enthusiast | Developer in Progress
-🎨 Passionate about blending design & code to create visually stunning and functional solutions.
-📚 Always learning, building, and sharing my journey in software development & creative design.
-
-💻 Favorite Languages & Tools:
-Java • Python • C • C++ • C# • JavaScript • PHP • Go • Swift
-
-🎨 Passionate about blending design & code to create visually stunning and functional solutions.
-📚 Always learning, building, and sharing my journey in software development & creative design.
-
-Skills: Data Entry / Canva Graphic Design  / Basic Programing / Adobe Photoshop / Adobe Illustrator / Computer Networking
-
-- 🔭 I’m currently working on Computer Programming System  
-- 🌱 I’m currently learning Ai System Management, Github Profile Updates  
-- 👯 I’m looking to collaborate on Active Computer Programmers  
-- 🤔 I’m looking for help with Github Developers  
-- 💬 Ask me about Canva Graphic Design, File Presentation, Data Entry  
-- 📫 How to reach me: shawonforazi2002@gmail.com 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: Always active on Github to update profile  
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there! I'm ⤵️
+ <!-- 🌈 Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,100:ee0979&height=220&section=header&text=Md.%20Shawon%20Forazi&fontSize=65&fontAlignY=38&animation=twinkling&fontColor=ffffff" alt="header"/>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=FF6A00,F441A5,43C6AC,F7B42C&center=true&vCenter=true&width=700&lines=🎨+Graphic+Designer;💡+Creative+Thinker;🖥+UI/UX+Enthusiast;🌍+Open+Source+Contributor;🤖+AI+Learner" alt="Animated Titles" />
+</p>
 
 
-## 📛 My Github Badges:
+
+## 🎨 About Me
+
+- 🖌 Passionate **Graphic Designer**
+- 🚀 Expert in **Branding, Social Media Design**
+- 🌐 Skilled in **Photoshop | Illustrator | Figma | Canva | Premiere Pro | After Effects**
+- 💡 Always exploring **Modern Design Trends**
+- 📫 How to reach me: shawonforazi2002@gmail.com
+
+
+
+## 🏅 My GitHub Badges
+
+<p align="center">
+
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=for-the-badge&color=brightgreen&label=Profile+Views" alt="Profile Views" />
+
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/YourGitHubUsername?style=for-the-badge&logo=github&label=Followers&color=blue" />
+
+  <!-- Stars -->
+  <img src="https://img.shields.io/github/stars/YourGitHubUsername?style=for-the-badge&logo=github&label=Stars&color=yellow" />
+
+  <!-- Repo Count -->
+  <img src="https://img.shields.io/badge/Repos-20+-orange?style=for-the-badge&logo=github" />
+
+  <!-- Open Source Contributor -->
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge&logo=opensourceinitiative" />
+
+  <!-- Always Learning -->
+  <img src="https://img.shields.io/badge/Learning-Always-blueviolet?style=for-the-badge&logo=read-the-docs" />
+
+</p>
+
+
+
+
+
+
+
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
  
 
@@ -33,7 +60,25 @@ Skills: Data Entry / Canva Graphic Design  / Basic Programing / Adobe Photoshop 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MdShawonForazi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MdShawonForazi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MdShawonForazi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 📚 Most Used Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+</p>
 
 
 
@@ -78,4 +123,11 @@ Skills: Data Entry / Canva Graphic Design  / Basic Programing / Adobe Photoshop 
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/skype.svg" alt="Skype" width="40" height="40"/>
   </a>
 </p>
+
+
+---
+
+
+---
+
 
