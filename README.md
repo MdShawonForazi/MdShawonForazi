@@ -130,13 +130,6 @@
   </a>
 </p>
 
-<!-- ===========================
-     📈 GitHub Growth Line Chart
-============================ -->
-
-<p align="center">
-  <img src="https://quickchart.io/chart?c=%7Btype%3A%27line%27%2Cdata%3A%7Blabels%3A%5B%272021%27%2C%272022%27%2C%272023%27%2C%272024%27%2C%272025%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Followers%27%2Cdata%3A%5B200%2C1000%2C2500%2C4000%2C5500%5D%2CborderColor%3A%27%231f77b4%27%2CbackgroundColor%3A%27rgba(31%2C119%2C180%2C0.2)%27%2Cfill%3Atrue%2Ctension%3A0.3%7D%2C%7Blabel%3A%27Stars%27%2Cdata%3A%5B50%2C300%2C1000%2C2000%2C3200%5D%2CborderColor%3A%27%23ff7f0e%27%2CbackgroundColor%3A%27rgba(255%2C127%2C14%2C0.2)%27%2Cfill%3Atrue%2Ctension%3A0.3%7D%2C%7Blabel%3A%27Repositories%27%2Cdata%3A%5B10%2C25%2C40%2C60%2C85%5D%2CborderColor%3A%27%232ca02c%27%2CbackgroundColor%3A%27rgba(44%2C160%2C44%2C0.2)%27%2Cfill%3Atrue%2Ctension%3A0.3%7D%2C%7Blabel%3A%27Commits%27%2Cdata%3A%5B500%2C3000%2C8000%2C18000%2C35000%5D%2CborderColor%3A%27%23d62728%27%2CbackgroundColor%3A%27rgba(214%2C39%2C40%2C0.2)%27%2Cfill%3Atrue%2Ctension%3A0.3%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27bottom%27%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27GitHub%20Growth%20(2021-2025)%27%2Cfont%3A%7Bsize%3A18%7D%7D%7D%2Cscales%3A%7By%3A%7BbeginAtZero%3Atrue%2Cticks%3A%7BstepSize%3A5000%7D%7D%7D%7D%7D" alt="GitHub Growth Line Chart" width="700"/>
-</p>
 
 ![copyImage](https://github.com/user-attachments/assets/72d41e69-5681-4853-811f-3e6e84d94b72)
 
