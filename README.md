@@ -33,7 +33,7 @@
 
  ## ☢️ My Github Activities
 
- <p align="center">
+<p align="center">
   <!-- Followers -->
   <img src="https://img.shields.io/badge/Followers-5.5K-blue?style=for-the-badge&logo=github" alt="Followers"/>
 
@@ -48,9 +48,20 @@
 
   <!-- Repos -->
   <img src="https://img.shields.io/badge/Public%20Repos-85-orange?style=for-the-badge&logo=github" alt="Repos"/>
-</p>
 
-  
+  <!-- Profile Views -->
+  <img src="https://img.shields.io/badge/Profile_Views-15000%2B-ff69b4?style=for-the-badge&logo=eye" alt="Profile Views"/>
+
+
+
+
+
+
+
+
+ 
+
+
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MdShawonForazi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
