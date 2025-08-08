@@ -55,7 +55,6 @@
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
 
   <!-- UI/UX & Design -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sketch/sketch-original.svg" alt="Sketch" width="50" height="50" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/zeplin-282928.png" alt="Zeplin" width="50" height="50" />
 
