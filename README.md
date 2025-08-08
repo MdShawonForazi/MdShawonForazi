@@ -86,7 +86,10 @@
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
-
+## 📉 My GitHub Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdShawonForazi&theme=tokyo-night&bg_color=0f0f0f&color=00ff99&line=ff4d6d&point=ffffff&area=true&hide_border=true" alt="Md Shawon's Colorful Contribution Graph" />
+</p>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
