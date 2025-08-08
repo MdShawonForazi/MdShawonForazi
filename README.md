@@ -35,7 +35,7 @@
 
 <p align="center">
   <!-- Followers -->
-  <img src="https://img.shields.io/badge/Followers-5.5K-blue?style=for-the-badge&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Followers-5.6K-blue?style=for-the-badge&logo=github" alt="Followers"/>
 
   <!-- Stars -->
   <img src="https://img.shields.io/badge/Stars-2.8K-yellow?style=for-the-badge&logo=github" alt="Stars"/>
@@ -49,13 +49,36 @@
   <!-- Repos -->
   <img src="https://img.shields.io/badge/Public%20Repos-85-orange?style=for-the-badge&logo=github" alt="Repos"/>
 
-  <!-- Profile Views -->
-  <img src="https://img.shields.io/badge/Profile_Views-15000%2B-ff69b4?style=for-the-badge&logo=eye" alt="Profile Views"/>
 
 
 
+## 📈 GitHub Metrics Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MdShawonForazi&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
 
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MdShawonForazi&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MdShawonForazi&color=brightgreen" alt="Profile Views" />
+</p>
+
+
+## 🖥️ Most Used Languages with Progress Bars:
+
+| Tool & Logo                                         | Usage        | Tool & Logo                                         | Usage        | Tool & Logo                                         | Usage        |
+| -------------------------------------------------- | ------------ | -------------------------------------------------- | ------------ | -------------------------------------------------- | ------------ |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" /> Python   | ██████████ 90% | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" /> JavaScript | ████████░░ 75% | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" /> Java       | ██████░░░░ 60% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" /> C++    | ██████░░░░ 60% | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="30" /> PHP          | ████░░░░░░ 40% | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" /> Git         | █████████░ 85% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" /> React      | ████████░░ 75% | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" /> Docker      | █████░░░░░ 55% | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="30" /> Linux       | █████░░░░░ 55% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" /> VS Code   | ██████████ 90% | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" /> Node.js     | ████████░░ 75% | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="30" /> Angular | ███░░░░░░░ 35% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" /> HTML5     | █████████░░ 85% | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="30" /> CSS3         | ███████░░░ 70% | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" width="30" /> Webpack    | ███░░░░░░░ 35% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="30" /> Flutter   | ████░░░░░░ 40% | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="30" /> Kubernetes | ███░░░░░░░ 35% | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="30" /> MySQL      | ██████░░░░ 60% |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="30" /> Redis       | ███░░░░░░░ 35% | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="30" /> Terraform  | ██░░░░░░░░ 25% | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="30" /> Django     | ███░░░░░░░ 35% |
 
 
 
@@ -63,28 +86,7 @@
 
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MdShawonForazi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MdShawonForazi&theme=dark&hide_border=false)<br/>
 
-## 📚 Most Used Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-</p>
 
 ## 📉 My GitHub Contribution Graph
 <p align="center">
