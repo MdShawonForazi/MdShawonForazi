@@ -7,8 +7,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=FF6A00,F441A5,43C6AC,F7B42C&center=true&vCenter=true&width=700&lines=🎨+Graphic+Designer;💡+Creative+Thinker;🖥+UI/UX+Enthusiast;🌍+Open+Source+Contributor;🤖+AI+Learner" alt="Animated Titles" />
 </p>
 
-
-
+![Octocat](https://octodex.github.com/images/daftpunktocat-thomas.gif)  
+   
 ## 💫 About Me
 
 - 🖌 Passionate **Graphic Designer**
