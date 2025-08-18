@@ -172,7 +172,7 @@
   <a href="https://facebook.com/IamShawonForazi" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
    <!-- X / Twitter -->
-  <a href="https://x.com/your-profile" target="_blank">
+  <a href="https://x.com/md_shawonforazi" target="_blank">
     <img src="https://img.icons8.com/fluency/48/twitter.png" alt="X/Twitter"/>
   </a>
   <a href="https://www.linkedin.com/in/md-shawon-forazi-3657b9182" target="_blank">
@@ -185,15 +185,15 @@
     <img src="https://img.icons8.com/fluency/48/snapchat.png" alt="Snapchat"
     </a>
   <!-- Bluesky -->
-  <a href="https://bsky.app/profile/your-profile" target="_blank">
+  <a href="https://bsky.app/profile/shawonforazi " target="_blank">
     <img src="https://img.icons8.com/fluency/48/bluesky.png" alt="Bluesky"/>
   </a>
   <!-- Gmail -->
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:rakibhasanshawon2002@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail"/>
   </a>
   <!-- iCloud -->
-  <a href="mailto:your-email@icloud.com" target="_blank">
+  <a href="mailto:shawonforazi9009@icloud.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/icloud.png" alt="iCloud"/>
 <a>
 <a href="https://www.skype.com/ShawonForazi" target="_blank">
