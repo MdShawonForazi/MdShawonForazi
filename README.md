@@ -175,7 +175,7 @@
   <a href="https://x.com/md_shawonforazi" target="_blank">
     <img src="https://img.icons8.com/fluency/48/twitter.png" alt="X/Twitter"/>
   </a>
-  <a href="https://www.linkedin.com/md-shawon-forazi-3657b9182 " target="_blank">
+  <a href="https://www.linkedin.com/md-rakib-hasan-shawon-3657b9182 " target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://pin.it/2kO4pl3Q4" target="_blank">
