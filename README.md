@@ -9,7 +9,7 @@
 
 ![Octocat](https://octodex.github.com/images/daftpunktocat-thomas.gif)  
    
-## 💫 About Me
+## 💫 About Me <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
 
 - 🖌 Passionate **Graphic Designer**
 - 🚀 Expert in **Branding, Social Media Design**
@@ -19,8 +19,8 @@
 
 
 
-## 🏅 My GitHub Badges
 
+## 🏅 My GitHub Badges <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
  
 
@@ -30,8 +30,7 @@
 
 
 
-## 🛠️ GitHub Tech Stack👇
-
+## 🛠️ GitHub Tech Stack👇 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 ### 🎨 Graphics Design Tools
 
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
@@ -124,8 +123,7 @@
 
 
 
-## 📈 GitHub Metrics Dashboard
-
+## 📈 GitHub Metrics Dashboard<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MdShawonForazi&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </p>
@@ -140,8 +138,7 @@
 </p>
 
 
-## 🖥️ Most Used Languages with Progress Bars:
-
+## 🖥️ Most Used Languages with Progress Bars: <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 | Tool & Logo                                         | Usage        | Tool & Logo                                         | Usage        | Tool & Logo                                         | Usage        |
 | -------------------------------------------------- | ------------ | -------------------------------------------------- | ------------ | -------------------------------------------------- | ------------ |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" /> Python   | ██████████ 90% | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30" /> JavaScript | ████████░░ 75% | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30" /> Java       | ██████░░░░ 60% |
@@ -160,17 +157,17 @@
 
 
 
-## 📉 My GitHub Contribution Graph
+## 📉 My GitHub Contribution Graph<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MdShawonForazi&theme=tokyo-night&bg_color=0f0f0f&color=00ff99&line=ff4d6d&point=ffffff&area=true&hide_border=true" alt="Md Shawon's Colorful Contribution Graph" />
 </p>
 
-## ✍️ Random Dev Quote
+## ✍️ Random Dev Quote <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 
-## 🌐 Connect With Me:
+## 🌐 Connect With Me: <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 <p align="center">
   <a href="https://facebook.com/IamShawonForazi" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
