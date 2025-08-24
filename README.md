@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there! I'm ⤵️
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hi there! I'm ⤵
  <!-- 🌈 Animated Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6a00,100:ee0979&height=220&section=header&text=Md.%20Shawon%20Forazi&fontSize=65&fontAlignY=38&animation=twinkling&fontColor=ffffff" alt="header"/>
