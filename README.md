@@ -9,7 +9,7 @@
 
 ![Octocat](https://octodex.github.com/images/daftpunktocat-thomas.gif)  
    
-## 💫 About Me <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
+   ## 💫 About Me <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="20px"/>
 
 - 🖌 Passionate **Graphic Designer**
 - 🚀 Expert in **Branding, Social Media Design**
@@ -18,14 +18,18 @@
 - 📫 How to reach me: shawonforazi2002@gmail.com
 
 
-
+---
 
 ## 🏅 My GitHub Badges <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
  
 
+## 🏆 GitHub Trophies <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10px"/>
+![](https://github-profile-trophy.vercel.app/?username=MdShawonForazi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
+
+---
 
 
 
