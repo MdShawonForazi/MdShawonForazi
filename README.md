@@ -128,6 +128,7 @@
 
 ![copyImage](https://github.com/user-attachments/assets/b62bdb07-d9cd-4a84-95c4-cd1df174a0ec)
 
+![copyImage](https://github.com/user-attachments/assets/b1eb740e-1bb0-4579-98b5-2b2dc1ea1df0)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Arial+Black&size=48&duration=2500&pause=1000&center=true&vCenter=true&width=1000&color=FF0000&lines=THANKS+FOR+VISITING+PROFILE;THANKS+FOR+VISITING+PROFILE;THANKS+FOR+VISITING+PROFILE;THANKS+FOR+VISITING+PROFILE;THANKS+FOR+VISITING+PROFILE" alt="Typing SVG" />
